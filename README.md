@@ -18,12 +18,16 @@ Ensure you have the following on your PC:
 
 - Install the dependencies with the command
 
-```pipenv install```
+```bash
+pipenv install
+```
 
 this command should be called from the root of the project.
 
 - Start the application with the command
 
-```python main.py```
+```bash
+python main.py
+```
 
 P.S: Ensure you're running it in a [virtual environment](https://virtualenv.pypa.io/en/latest/)
